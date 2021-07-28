@@ -275,7 +275,7 @@
     {
         "id": 1017492318,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -535,7 +535,7 @@
     {
         "id": 1045514637,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -561,7 +561,7 @@
     {
         "id": 1052456801,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -1588,7 +1588,7 @@
     {
         "id": 1171447343,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -2927,7 +2927,7 @@
     {
         "id": 1326806971,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 1,
         "created_at": "2019-03-17T03:18:00.000Z",
         "updated_at": null,
@@ -3486,7 +3486,7 @@
     {
         "id": 1410336432,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -3902,7 +3902,7 @@
     {
         "id": 1466979136,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -4006,7 +4006,7 @@
     {
         "id": 1481282502,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -4461,7 +4461,7 @@
     {
         "id": 1539850970,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -4565,7 +4565,7 @@
     {
         "id": 1549240195,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -4708,7 +4708,7 @@
     {
         "id": 1573749596,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -4903,7 +4903,7 @@
     {
         "id": 1590897100,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -4968,7 +4968,7 @@
     {
         "id": 1600287571,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -5592,7 +5592,7 @@
     {
         "id": 1671893803,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -5683,7 +5683,7 @@
     {
         "id": 1685271080,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -6723,7 +6723,7 @@
     {
         "id": 1781354369,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -6762,7 +6762,7 @@
     {
         "id": 1785315067,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -6814,7 +6814,7 @@
     {
         "id": 1792568442,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -7594,7 +7594,7 @@
     {
         "id": 1881712497,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -7984,7 +7984,7 @@
     {
         "id": 1923313865,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -9219,7 +9219,7 @@
     {
         "id": 2083457558,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -9544,7 +9544,7 @@
     {
         "id": 2115420743,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -9596,7 +9596,7 @@
     {
         "id": 2119678547,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -9895,7 +9895,7 @@
     {
         "id": 2164053640,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -10324,7 +10324,7 @@
     {
         "id": 2215360259,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -10376,7 +10376,7 @@
     {
         "id": 2219260268,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -11065,7 +11065,7 @@
     {
         "id": 2287502607,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -11130,7 +11130,7 @@
     {
         "id": 2291732877,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -11286,7 +11286,7 @@
     {
         "id": 2308493889,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -11598,7 +11598,7 @@
     {
         "id": 2352052986,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -12209,7 +12209,7 @@
     {
         "id": 2420921378,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -12326,7 +12326,7 @@
     {
         "id": 2434938649,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -12378,7 +12378,7 @@
     {
         "id": 2448602336,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -12989,7 +12989,7 @@
     {
         "id": 2496910085,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -13717,7 +13717,7 @@
     {
         "id": 2595518213,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -14588,7 +14588,7 @@
     {
         "id": 2698414776,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -15264,7 +15264,7 @@
     {
         "id": 2775910181,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 1,
         "created_at": "2019-03-17T03:18:00.000Z",
         "updated_at": null,
@@ -15823,7 +15823,7 @@
     {
         "id": 2842464318,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -15927,7 +15927,7 @@
     {
         "id": 2851323748,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -16083,7 +16083,7 @@
     {
         "id": 2870489227,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -16265,7 +16265,7 @@
     {
         "id": 2885041696,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -16629,7 +16629,7 @@
     {
         "id": 2945300493,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -17266,7 +17266,7 @@
     {
         "id": 3002436679,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -17500,7 +17500,7 @@
     {
         "id": 3025579417,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -17630,7 +17630,7 @@
     {
         "id": 3047537193,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -19515,7 +19515,7 @@
     {
         "id": 3287567967,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -19580,7 +19580,7 @@
     {
         "id": 3294684952,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -19749,7 +19749,7 @@
     {
         "id": 3321624052,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -20100,7 +20100,7 @@
     {
         "id": 3363685185,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -21413,7 +21413,7 @@
     {
         "id": 3503268820,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -21582,7 +21582,7 @@
     {
         "id": 3517464954,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -22752,7 +22752,7 @@
     {
         "id": 3653567102,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -22856,7 +22856,7 @@
     {
         "id": 3662421890,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -23090,7 +23090,7 @@
     {
         "id": 3691041712,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -23207,7 +23207,7 @@
     {
         "id": 3700911569,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 1,
         "created_at": "2019-03-17T03:18:00.000Z",
         "updated_at": null,
@@ -23974,7 +23974,7 @@
     {
         "id": 3800897716,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -24260,7 +24260,7 @@
     {
         "id": 3829778113,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -24624,7 +24624,7 @@
     {
         "id": 3875008215,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 1,
         "created_at": "2019-03-17T03:18:00.000Z",
         "updated_at": null,
@@ -24676,7 +24676,7 @@
     {
         "id": 3882316299,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -24728,7 +24728,7 @@
     {
         "id": 3888106880,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -25066,7 +25066,7 @@
     {
         "id": 3925468509,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -25599,7 +25599,7 @@
     {
         "id": 3989724024,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -25625,7 +25625,7 @@
     {
         "id": 3992397351,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -25833,7 +25833,7 @@
     {
         "id": 4027841141,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -26041,7 +26041,7 @@
     {
         "id": 4048798397,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -26171,7 +26171,7 @@
     {
         "id": 4068221057,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -26418,7 +26418,7 @@
     {
         "id": 4093483161,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -26613,7 +26613,7 @@
     {
         "id": 4122601352,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -26652,7 +26652,7 @@
     {
         "id": 4126913000,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -26808,7 +26808,7 @@
     {
         "id": 4145818241,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -26951,7 +26951,7 @@
     {
         "id": 4165564357,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -27250,7 +27250,7 @@
     {
         "id": 4196765238,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -27445,7 +27445,7 @@
     {
         "id": 4211978793,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -27796,7 +27796,7 @@
     {
         "id": 4257077238,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -27822,7 +27822,7 @@
     {
         "id": 4259080236,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -28160,7 +28160,7 @@
     {
         "id": 4290431094,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -28511,7 +28511,7 @@
     {
         "id": 4324782804,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -28823,7 +28823,7 @@
     {
         "id": 4375800647,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -29005,7 +29005,7 @@
     {
         "id": 4384922250,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -30019,7 +30019,7 @@
     {
         "id": 4519846469,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -30110,7 +30110,7 @@
     {
         "id": 4535770550,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -30370,7 +30370,7 @@
     {
         "id": 4563508585,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -31007,7 +31007,7 @@
     {
         "id": 4647654663,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -31540,7 +31540,7 @@
     {
         "id": 4718307115,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -32164,7 +32164,7 @@
     {
         "id": 4797070062,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -34647,7 +34647,7 @@
     {
         "id": 5109876839,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -34881,7 +34881,7 @@
     {
         "id": 5128934211,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -35440,7 +35440,7 @@
     {
         "id": 5197582300,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -35505,7 +35505,7 @@
     {
         "id": 5204729282,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -36779,7 +36779,7 @@
     {
         "id": 5355693984,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -38079,7 +38079,7 @@
     {
         "id": 5521251567,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -38092,7 +38092,7 @@
     {
         "id": 5521367412,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -38651,7 +38651,7 @@
     {
         "id": 5576666244,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -38989,7 +38989,7 @@
     {
         "id": 5620437961,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -39132,7 +39132,7 @@
     {
         "id": 5636796850,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -39860,7 +39860,7 @@
     {
         "id": 5720094146,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -40536,7 +40536,7 @@
     {
         "id": 5804024766,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -40718,7 +40718,7 @@
     {
         "id": 5818795633,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -41225,7 +41225,7 @@
     {
         "id": 5874266044,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -41927,7 +41927,7 @@
     {
         "id": 5960802535,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -43032,7 +43032,7 @@
     {
         "id": 6073604958,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -43500,7 +43500,7 @@
     {
         "id": 6124822692,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -43630,7 +43630,7 @@
     {
         "id": 6147993459,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -44033,7 +44033,7 @@
     {
         "id": 6193730421,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -45138,7 +45138,7 @@
     {
         "id": 6331571039,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -45489,7 +45489,7 @@
     {
         "id": 6373098630,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -46542,7 +46542,7 @@
     {
         "id": 6483634641,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -49025,7 +49025,7 @@
     {
         "id": 6762937484,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -49103,7 +49103,7 @@
     {
         "id": 6772001195,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -49428,7 +49428,7 @@
     {
         "id": 6808237016,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -50650,7 +50650,7 @@
     {
         "id": 6948287531,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -50754,7 +50754,7 @@
     {
         "id": 6962247363,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -51235,7 +51235,7 @@
     {
         "id": 7011215915,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -51287,7 +51287,7 @@
     {
         "id": 7015568571,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -51495,7 +51495,7 @@
     {
         "id": 7035093760,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -53068,7 +53068,7 @@
     {
         "id": 7223193762,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -53731,7 +53731,7 @@
     {
         "id": 7314442397,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -55005,7 +55005,7 @@
     {
         "id": 7471822124,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -55577,7 +55577,7 @@
     {
         "id": 7560649102,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -56019,7 +56019,7 @@
     {
         "id": 7608587017,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -56045,7 +56045,7 @@
     {
         "id": 7610061768,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -56331,7 +56331,7 @@
     {
         "id": 7643409477,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -56630,7 +56630,7 @@
     {
         "id": 7675490610,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -56669,7 +56669,7 @@
     {
         "id": 7682541856,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -57007,7 +57007,7 @@
     {
         "id": 7720616410,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -57163,7 +57163,7 @@
     {
         "id": 7744564921,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -57995,7 +57995,7 @@
     {
         "id": 7858041654,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -58190,7 +58190,7 @@
     {
         "id": 7877768621,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -59061,7 +59061,7 @@
     {
         "id": 7995166216,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -60478,7 +60478,7 @@
     {
         "id": 8191713945,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -61141,7 +61141,7 @@
     {
         "id": 8271471961,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -61622,7 +61622,7 @@
     {
         "id": 8325886179,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -62428,7 +62428,7 @@
     {
         "id": 8425545448,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -62974,7 +62974,7 @@
     {
         "id": 8506840284,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -62987,7 +62987,7 @@
     {
         "id": 8511647339,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -63000,7 +63000,7 @@
     {
         "id": 8512429501,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -63169,7 +63169,7 @@
     {
         "id": 8529786121,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -63247,7 +63247,7 @@
     {
         "id": 8538842801,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -63481,7 +63481,7 @@
     {
         "id": 8558674794,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -63546,7 +63546,7 @@
     {
         "id": 8566040020,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -64053,7 +64053,7 @@
     {
         "id": 8629916446,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -65106,7 +65106,7 @@
     {
         "id": 8764499079,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -65379,7 +65379,7 @@
     {
         "id": 8798745378,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -65808,7 +65808,7 @@
     {
         "id": 8848046979,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 1,
         "created_at": "2019-03-17T03:18:00.000Z",
         "updated_at": null,
@@ -66198,7 +66198,7 @@
     {
         "id": 8907480223,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -66419,7 +66419,7 @@
     {
         "id": 8929337011,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -66653,7 +66653,7 @@
     {
         "id": 8955183586,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -69383,7 +69383,7 @@
     {
         "id": 9325729131,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -69396,7 +69396,7 @@
     {
         "id": 9326157939,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -69656,7 +69656,7 @@
     {
         "id": 9354869241,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -69929,7 +69929,7 @@
     {
         "id": 9392475868,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -70280,7 +70280,7 @@
     {
         "id": 9431256415,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -70501,7 +70501,7 @@
     {
         "id": 9453395230,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -71580,7 +71580,7 @@
     {
         "id": 9603720011,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -72204,7 +72204,7 @@
     {
         "id": 9665593344,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -72672,7 +72672,7 @@
     {
         "id": 9706295492,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -73972,7 +73972,7 @@
     {
         "id": 9846060865,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -74024,7 +74024,7 @@
     {
         "id": 9847360281,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -74128,7 +74128,7 @@
     {
         "id": 9859692335,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 1,
         "created_at": "2019-03-17T03:18:00.000Z",
         "updated_at": null,
@@ -74154,7 +74154,7 @@
     {
         "id": 9862609005,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -74713,7 +74713,7 @@
     {
         "id": 9914992620,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 3,
         "created_at": "2019-10-18T09:39:19.000Z",
         "updated_at": null,
@@ -74791,7 +74791,7 @@
     {
         "id": 9927371522,
         "size": "R",
-        "status": "R",
+        "status": "B",
         "batch_id": 2,
         "created_at": "2019-06-01T16:09:24.000Z",
         "updated_at": null,
@@ -75220,7 +75220,7 @@
     {
         "id": 9961054371,
         "size": "R",
-        "status": "B",
+        "status": "R",
         "batch_id": 1,
         "created_at": "2019-03-17T03:18:00.000Z",
         "updated_at": null,

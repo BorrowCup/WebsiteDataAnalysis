@@ -2,69 +2,87 @@
     "nodes": [
         {
             "week": 4,
-            "single": 30,
+            "single": 29,
             "self": 0,
-            "other": 163
+            "other": 164
         },
         {
             "week": 5,
-            "single": 40,
+            "single": 35,
             "self": 24,
-            "other": 297
+            "other": 304
         },
         {
             "week": 6,
             "single": 31,
             "self": 14,
-            "other": 310
+            "other": 313
         },
         {
             "week": 7,
-            "single": 26,
+            "single": 24,
             "self": 14,
-            "other": 303
+            "other": 310
         },
         {
             "week": 8,
-            "single": 23,
+            "single": 20,
             "self": 24,
-            "other": 390
+            "other": 398
         },
         {
             "week": 9,
-            "single": 64,
+            "single": 60,
             "self": 23,
-            "other": 619
+            "other": 642
         },
         {
             "week": 10,
-            "single": 46,
+            "single": 42,
             "self": 27,
-            "other": 506
+            "other": 531
         },
         {
             "week": 11,
-            "single": 55,
+            "single": 47,
             "self": 45,
-            "other": 370
+            "other": 402
         },
         {
             "week": 17,
             "single": 3,
             "self": 2,
-            "other": 55
+            "other": 69
         },
         {
             "week": 18,
-            "single": 17,
+            "single": 9,
             "self": 85,
-            "other": 114
+            "other": 177
         },
         {
             "week": 19,
+            "single": 20,
+            "self": 20,
+            "other": 173
+        },
+        {
+            "week": 20,
+            "single": 4,
+            "self": 27,
+            "other": 134
+        },
+        {
+            "week": 21,
+            "single": 5,
+            "self": 0,
+            "other": 46
+        },
+        {
+            "week": 27,
             "single": 0,
-            "self": 14,
-            "other": 11
+            "self": 15,
+            "other": 13
         }
     ],
     "links": [
@@ -114,6 +132,11 @@
             "count": 70
         },
         {
+            "source": 19,
+            "target": 20,
+            "count": 63
+        },
+        {
             "source": 6,
             "target": 7,
             "count": 57
@@ -159,6 +182,16 @@
             "count": 33
         },
         {
+            "source": 18,
+            "target": 19,
+            "count": 31
+        },
+        {
+            "source": 18,
+            "target": 20,
+            "count": 31
+        },
+        {
             "source": 11,
             "target": 18,
             "count": 30
@@ -171,6 +204,11 @@
         {
             "source": 10,
             "target": 10,
+            "count": 27
+        },
+        {
+            "source": 20,
+            "target": 20,
             "count": 27
         },
         {
@@ -214,9 +252,34 @@
             "count": 20
         },
         {
+            "source": 19,
+            "target": 19,
+            "count": 20
+        },
+        {
+            "source": 10,
+            "target": 19,
+            "count": 17
+        },
+        {
+            "source": 11,
+            "target": 21,
+            "count": 16
+        },
+        {
             "source": 10,
             "target": 17,
             "count": 16
+        },
+        {
+            "source": 27,
+            "target": 27,
+            "count": 15
+        },
+        {
+            "source": 9,
+            "target": 19,
+            "count": 15
         },
         {
             "source": 6,
@@ -234,14 +297,14 @@
             "count": 14
         },
         {
-            "source": 19,
-            "target": 19,
-            "count": 14
-        },
-        {
             "source": 9,
             "target": 17,
             "count": 14
+        },
+        {
+            "source": 11,
+            "target": 19,
+            "count": 13
         },
         {
             "source": 7,
@@ -252,6 +315,16 @@
             "source": 4,
             "target": 7,
             "count": 12
+        },
+        {
+            "source": 19,
+            "target": 21,
+            "count": 11
+        },
+        {
+            "source": 17,
+            "target": 20,
+            "count": 10
         },
         {
             "source": 4,
@@ -279,8 +352,33 @@
             "count": 8
         },
         {
+            "source": 9,
+            "target": 20,
+            "count": 8
+        },
+        {
+            "source": 20,
+            "target": 27,
+            "count": 8
+        },
+        {
+            "source": 8,
+            "target": 19,
+            "count": 7
+        },
+        {
+            "source": 10,
+            "target": 21,
+            "count": 6
+        },
+        {
             "source": 8,
             "target": 18,
+            "count": 5
+        },
+        {
+            "source": 17,
+            "target": 19,
             "count": 5
         },
         {
@@ -309,43 +407,88 @@
             "count": 4
         },
         {
+            "source": 5,
+            "target": 19,
+            "count": 4
+        },
+        {
             "source": 4,
             "target": 10,
             "count": 4
         },
         {
-            "source": 9,
+            "source": 7,
+            "target": 21,
+            "count": 3
+        },
+        {
+            "source": 10,
+            "target": 20,
+            "count": 3
+        },
+        {
+            "source": 20,
+            "target": 21,
+            "count": 3
+        },
+        {
+            "source": 7,
             "target": 19,
             "count": 3
         },
         {
-            "source": 17,
-            "target": 17,
+            "source": 9,
+            "target": 21,
+            "count": 3
+        },
+        {
+            "source": 11,
+            "target": 27,
             "count": 2
         },
         {
-            "source": 10,
-            "target": 19,
+            "source": 17,
+            "target": 17,
             "count": 2
         },
         {
             "source": 8,
-            "target": 19,
-            "count": 2
-        },
-        {
-            "source": 5,
-            "target": 18,
-            "count": 2
-        },
-        {
-            "source": 17,
-            "target": 19,
+            "target": 20,
             "count": 2
         },
         {
             "source": 11,
+            "target": 20,
+            "count": 2
+        },
+        {
+            "source": 5,
+            "target": 18,
+            "count": 2
+        },
+        {
+            "source": 6,
             "target": 19,
+            "count": 2
+        },
+        {
+            "source": 5,
+            "target": 20,
+            "count": 2
+        },
+        {
+            "source": 18,
+            "target": 21,
+            "count": 1
+        },
+        {
+            "source": 5,
+            "target": 21,
+            "count": 1
+        },
+        {
+            "source": 10,
+            "target": 27,
             "count": 1
         },
         {
@@ -354,8 +497,33 @@
             "count": 1
         },
         {
-            "source": 18,
+            "source": 6,
+            "target": 20,
+            "count": 1
+        },
+        {
+            "source": 4,
             "target": 19,
+            "count": 1
+        },
+        {
+            "source": 18,
+            "target": 27,
+            "count": 1
+        },
+        {
+            "source": 8,
+            "target": 21,
+            "count": 1
+        },
+        {
+            "source": 19,
+            "target": 27,
+            "count": 1
+        },
+        {
+            "source": 7,
+            "target": 20,
             "count": 1
         },
         {
@@ -366,6 +534,11 @@
         {
             "source": 4,
             "target": 17,
+            "count": 1
+        },
+        {
+            "source": 17,
+            "target": 21,
             "count": 1
         }
     ]

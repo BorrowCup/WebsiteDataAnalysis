@@ -4,26 +4,26 @@
             "sets": [
                 "Once"
             ],
-            "size": 1172,
-            "label": "968"
+            "size": 1231,
+            "label": "1001"
         },
         {
             "sets": [
                 "Twice"
             ],
-            "size": 244,
-            "label": "40"
+            "size": 269,
+            "label": "39"
         },
         {
             "sets": [
                 "Once",
                 "Twice"
             ],
-            "size": 204,
-            "label": "204"
+            "size": 230,
+            "label": "230"
         }
     ],
-    "saleUnion": 1212,
+    "saleUnion": 1270,
     "saleCategories": [
         "Once",
         "Twice"
@@ -33,15 +33,15 @@
             "sets": [
                 "Once"
             ],
-            "size": 1339,
-            "label": "777"
+            "size": 1379,
+            "label": "812"
         },
         {
             "sets": [
                 "Twice"
             ],
             "size": 585,
-            "label": "25"
+            "label": "20"
         },
         {
             "sets": [
@@ -55,8 +55,8 @@
                 "Once",
                 "Twice"
             ],
-            "size": 559,
-            "label": "559"
+            "size": 564,
+            "label": "564"
         },
         {
             "sets": [
@@ -84,7 +84,7 @@
             "label": "4"
         }
     ],
-    "returnUnion": 1365,
+    "returnUnion": 1400,
     "returnCategories": [
         "Once",
         "Twice",
