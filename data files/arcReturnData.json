@@ -28,25 +28,25 @@
             "week": 8,
             "single": 6,
             "self": 149,
-            "other": 994
+            "other": 995
         },
         {
             "week": 9,
             "single": 26,
             "self": 73,
-            "other": 1163
+            "other": 1164
         },
         {
             "week": 10,
-            "single": 34,
+            "single": 33,
             "self": 109,
-            "other": 1078
+            "other": 1081
         },
         {
             "week": 11,
             "single": 32,
             "self": 114,
-            "other": 740
+            "other": 748
         },
         {
             "week": 17,
@@ -64,25 +64,31 @@
             "week": 19,
             "single": 9,
             "self": 0,
-            "other": 206
+            "other": 210
         },
         {
             "week": 20,
-            "single": 25,
+            "single": 23,
             "self": 2,
-            "other": 139
+            "other": 151
         },
         {
             "week": 21,
             "single": 1,
             "self": 0,
-            "other": 102
+            "other": 107
         },
         {
             "week": 28,
             "single": 4,
             "self": 0,
-            "other": 24
+            "other": 25
+        },
+        {
+            "week": 31,
+            "single": 5,
+            "self": 0,
+            "other": 35
         }
     ],
     "links": [
@@ -297,6 +303,11 @@
             "count": 12
         },
         {
+            "source": 20,
+            "target": 31,
+            "count": 12
+        },
+        {
             "source": 4,
             "target": 11,
             "count": 12
@@ -315,6 +326,11 @@
             "source": 6,
             "target": 10,
             "count": 9
+        },
+        {
+            "source": 11,
+            "target": 31,
+            "count": 8
         },
         {
             "source": 11,
@@ -343,6 +359,16 @@
         },
         {
             "source": 21,
+            "target": 31,
+            "count": 5
+        },
+        {
+            "source": 19,
+            "target": 31,
+            "count": 4
+        },
+        {
+            "source": 21,
             "target": 28,
             "count": 4
         },
@@ -354,6 +380,11 @@
         {
             "source": 7,
             "target": 18,
+            "count": 3
+        },
+        {
+            "source": 10,
+            "target": 31,
             "count": 3
         },
         {
@@ -402,6 +433,11 @@
             "count": 1
         },
         {
+            "source": 28,
+            "target": 31,
+            "count": 1
+        },
+        {
             "source": 7,
             "target": 17,
             "count": 1
@@ -417,8 +453,18 @@
             "count": 1
         },
         {
+            "source": 8,
+            "target": 31,
+            "count": 1
+        },
+        {
             "source": 19,
             "target": 28,
+            "count": 1
+        },
+        {
+            "source": 9,
+            "target": 31,
             "count": 1
         },
         {
